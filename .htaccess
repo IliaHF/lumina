@@ -5,5 +5,5 @@
   # Allow Angular to handle routing
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule . /index.html [L]
+  RewriteRule . /lumina/index.html [L]
 </IfModule>
